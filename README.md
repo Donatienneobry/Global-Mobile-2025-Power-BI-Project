@@ -1,4 +1,4 @@
-# Global-Mobile-2025-Power-BI-Project
+# Global Mobile 2025 - Power BI Project
 Global Mobile data analysis conducted with Power BI. This project highlights trends, key metrics...
 
 ## Project Overview
