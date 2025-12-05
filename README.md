@@ -66,10 +66,10 @@ French version
 Tableau de bord Netflix – Projet Power BI<br />
 Présentation du projet<br />
 
-Ce tableau de bord Power BI propose une vue analytique des performances du marché mobile mondial selon plusieurs dimensions :
-📱 Marques
-⚙️ Caractéristiques
-💲 Prix
+Ce tableau de bord Power BI propose une vue analytique des performances du marché mobile mondial selon plusieurs dimensions :<br /> 
+📱 Marques<br />
+⚙️ Caractéristiques<br />
+💲 Prix<br />
 Ce rapport a été créé pour me familiariser avec Power BI – il s’agit de mon deuxième projet de portfolio sur cet outil.
 
 ## Objectifs
