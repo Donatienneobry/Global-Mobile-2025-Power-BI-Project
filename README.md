@@ -2,7 +2,7 @@
 Global Mobile data analysis conducted with Power BI. This project highlights trends, key metrics...
 
 ## Project Overview
-This Power BI Dashboard provides an analytical view of Global Mobile performance accross multiple dimensions<br /> 
+This Power BI Dashboard provides an analytical view of Global Mobile performance across multiple dimensions<br /> 
 📱 Brands<br />
 ⚙️ Features<br />
 💲 Price<br />
@@ -14,7 +14,7 @@ This report was created to familiarize myself with Power BI – it is my second 
 ---
 
 ## Objectives
-- Analyze the global smartphone market in 2025 by brand and model.
+- Analysis of the global smartphone market.
 - Highlight the most influential technical features on device positioning.
 - Identify the most performant brands based on volume, price, and customer ratings.
 - Extract key insights to support data‑driven decisions for product and marketing strategy.
